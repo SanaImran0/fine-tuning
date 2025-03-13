@@ -120,14 +120,12 @@ You can customize the fine-tuning process by modifying:
 
 ## Citation
 
-If you use this code in your research, please cite:
-
 ```
 @software{biomedlm_finetuning,
-  author = {Your Name},
+  author = {Sana Imran},
   title = {BioMedLM Fine-tuning for Medical Question Answering},
   year = {2025},
-  url = {https://github.com/yourusername/biomedlm-finetuning}
+  url = {https://github.com/SanaImran0/biomedlm-finetuning}
 }
 ```
 
